@@ -23,15 +23,16 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.80786959"
-     inkscape:cx="893.7086"
-     inkscape:cy="963.64563"
-     inkscape:window-width="1920"
-     inkscape:window-height="1070"
-     inkscape:window-x="1680"
-     inkscape:window-y="383"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="layer1">
+     inkscape:zoom="0.45726498"
+     inkscape:cx="1718.9158"
+     inkscape:cy="299.60746"
+     inkscape:window-width="1680"
+     inkscape:window-height="929"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     showguides="false">
     <inkscape:page
        x="0"
        y="0"
@@ -41,8 +42,8 @@
        margin="0"
        bleed="0" />
     <inkscape:page
-       x="195.21001"
-       y="0"
+       x="393.67715"
+       y="7.6293945e-06"
        width="185.21001"
        height="159.27998"
        id="page2"
@@ -62,6 +63,14 @@
        width="185.21001"
        height="159.28"
        id="page10"
+       margin="0"
+       bleed="0" />
+    <inkscape:page
+       x="195.21001"
+       y="7.6293945e-06"
+       width="185.21001"
+       height="159.27998"
+       id="page3"
        margin="0"
        bleed="0" />
   </sodipodi:namedview>
@@ -187,7 +196,8 @@
       </g>
     </g>
     <g
-       id="g6">
+       id="g6"
+       transform="translate(198.46632,-4.0756223e-4)">
       <rect
          style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:0.982079"
          id="rect3"
@@ -197,35 +207,32 @@
          y="0.00083038327" />
       <g
          id="g5">
-        <g
-           id="g4">
-          <text
-             xml:space="preserve"
-             style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:expanded;font-size:8.87339px;font-family:'Shuttleblock Test';-inkscape-font-specification:'Shuttleblock Test Medium Italic Expanded';letter-spacing:-0.0621135px;word-spacing:-0.27452px;opacity:0.0175097;fill:#ffffe3;fill-opacity:1;stroke:none;stroke-width:0.102708;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:0.100244, 0.20049"
+        <text
+           xml:space="preserve"
+           style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:expanded;font-size:8.87339px;font-family:'Shuttleblock Test';-inkscape-font-specification:'Shuttleblock Test Medium Italic Expanded';letter-spacing:-0.0621135px;word-spacing:-0.27452px;opacity:0.097;fill:#ffffe3;fill-opacity:1;stroke:none;stroke-width:0.102708;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:0.100244, 0.20049"
+           x="264.74374"
+           y="106.9502"
+           id="text29"
+           transform="scale(1.1593615,0.86254374)"><tspan
+             sodipodi:role="line"
+             id="tspan29"
              x="264.74374"
              y="106.9502"
-             id="text29"
-             transform="scale(1.1593615,0.86254375)"><tspan
-               sodipodi:role="line"
-               id="tspan29"
-               x="264.74374"
-               y="106.9502"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:8.87339px;font-family:'Shuttleblock Test';-inkscape-font-specification:'Shuttleblock Test Bold Condensed';fill:#ffffe3;fill-opacity:1;stroke:none;stroke-width:0.102708">[<tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:8.87339px;font-family:'Shuttleblock Test';-inkscape-font-specification:'Shuttleblock Test Bold Condensed';fill:#ffffe3;fill-opacity:1;stroke:none;stroke-width:0.102708">[<tspan
    style="letter-spacing:0.24901px;fill:#ffffe3;fill-opacity:1;stroke:none;stroke-width:0.102708"
    id="tspan28">conditions apply</tspan>]</tspan></text>
-          <text
-             xml:space="preserve"
-             style="font-weight:bold;font-size:24.2202px;font-family:'Ananda Namaste';-inkscape-font-specification:'Ananda Namaste Bold';letter-spacing:-0.141283px;word-spacing:-0.624426px;opacity:0.0175097;fill:#ffffe3;fill-opacity:1;stroke:none;stroke-width:0.23362;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:0.228016, 0.456035"
+        <text
+           xml:space="preserve"
+           style="font-weight:bold;font-size:24.2202px;font-family:'Ananda Namaste';-inkscape-font-specification:'Ananda Namaste Bold';letter-spacing:-0.141283px;word-spacing:-0.624426px;opacity:0.097;fill:#ffffe3;fill-opacity:1;stroke:none;stroke-width:0.23362;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:0.228016, 0.456035"
+           x="213.97452"
+           y="79.627876"
+           id="text27"
+           transform="scale(0.94331854,1.0600873)"><tspan
+             sodipodi:role="line"
+             id="tspan27"
              x="213.97452"
              y="79.627876"
-             id="text27"
-             transform="scale(0.94331854,1.0600873)"><tspan
-               sodipodi:role="line"
-               id="tspan27"
-               x="213.97452"
-               y="79.627876"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24.2202px;font-family:Ranger;-inkscape-font-specification:'Ranger Bold';fill:#ffffe3;fill-opacity:1;stroke:none;stroke-width:0.23362">GROUND BREAKING</tspan></text>
-        </g>
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24.2202px;font-family:Ranger;-inkscape-font-specification:'Ranger Bold';fill:#ffffe3;fill-opacity:1;stroke:none;stroke-width:0.23362">GROUND BREAKING</tspan></text>
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.87988px;font-family:'Martian Mono';-inkscape-font-specification:'Martian Mono, @wdth=91.9';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wdth' 91.9;letter-spacing:-0.32591px;word-spacing:-1.44041px;fill:#ffffe3;fill-opacity:1;stroke:none;stroke-width:0.23192;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:0.226359, 0.452718"
@@ -247,7 +254,7 @@
              sodipodi:role="line"
              x="325.13016"
              y="14.125397"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.4702px;font-family:'General Sans';-inkscape-font-specification:'General Sans Bold';fill:#ffffe3;fill-opacity:1;stroke-width:0.0633786"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.4702px;font-family:Switzer;-inkscape-font-specification:'Switzer Bold';fill:#ffffe3;fill-opacity:1;stroke-width:0.0633786"
              id="tspan41">VISUALIZATION TITLE</tspan></text>
         <g
            id="g3">
@@ -441,5 +448,85 @@
          style="fill:#000000;fill-opacity:0.9;stroke-width:0.499435"
          x="262.7587"
          y="234.30342" /></text>
+    <g
+       id="g22"
+       transform="translate(2.4184398e-5,-4.089986e-4)">
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:0.982079"
+         id="rect4"
+         width="185.20833"
+         height="159.27916"
+         x="195.21169"
+         y="0.00083038327" />
+      <g
+         id="g21">
+        <text
+           xml:space="preserve"
+           style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:expanded;font-size:8.87339px;font-family:'Shuttleblock Test';-inkscape-font-specification:'Shuttleblock Test Medium Italic Expanded';letter-spacing:-0.0621135px;word-spacing:-0.27452px;opacity:0.095;fill:#ffffe3;fill-opacity:1;stroke:none;stroke-width:0.102708;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:0.100244, 0.20049"
+           x="264.74374"
+           y="106.9502"
+           id="text7"
+           transform="scale(1.1593615,0.86254374)"><tspan
+             sodipodi:role="line"
+             id="tspan7"
+             x="264.74374"
+             y="106.9502"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:8.87339px;font-family:'Shuttleblock Test';-inkscape-font-specification:'Shuttleblock Test Bold Condensed';fill:#ffffe3;fill-opacity:1;stroke:none;stroke-width:0.102708">[<tspan
+   style="letter-spacing:0.24901px;fill:#ffffe3;fill-opacity:1;stroke:none;stroke-width:0.102708"
+   id="tspan6">conditions apply</tspan>]</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-weight:bold;font-size:24.2202px;font-family:'Ananda Namaste';-inkscape-font-specification:'Ananda Namaste Bold';letter-spacing:-0.141283px;word-spacing:-0.624426px;opacity:0.097;fill:#ffffe3;fill-opacity:1;stroke:none;stroke-width:0.23362;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:0.228016, 0.456035"
+           x="213.97452"
+           y="79.627876"
+           id="text8"
+           transform="scale(0.94331854,1.0600873)"><tspan
+             sodipodi:role="line"
+             id="tspan8"
+             x="213.97452"
+             y="79.627876"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24.2202px;font-family:Ranger;-inkscape-font-specification:'Ranger Bold';fill:#ffffe3;fill-opacity:1;stroke:none;stroke-width:0.23362">GROUND BREAKING</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.87988px;font-family:'Martian Mono';-inkscape-font-specification:'Martian Mono, @wdth=91.9';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wdth' 91.9;letter-spacing:-0.32591px;word-spacing:-1.44041px;fill:#ffffe3;fill-opacity:1;stroke:none;stroke-width:0.23192;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:0.226359, 0.452718"
+           x="374.14252"
+           y="150.47983"
+           id="text10"><tspan
+             sodipodi:role="line"
+             x="373.81662"
+             y="150.47983"
+             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.87988px;font-family:'Martian Mono';-inkscape-font-specification:'Martian Mono, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#ffffe3;fill-opacity:1;stroke-width:0.23192"
+             id="tspan10">Source: LOREM IPSUM</tspan></text>
+        <g
+           id="g20">
+          <text
+             xml:space="preserve"
+             style="font-weight:bold;font-size:9.5459px;font-family:'Ananda Namaste';-inkscape-font-specification:'Ananda Namaste Bold';letter-spacing:-0.0556844px;word-spacing:-0.246105px;fill:#ffffe3;fill-opacity:1;stroke:none;stroke-width:0.092077;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:0.089868, 0.179738"
+             x="231.70236"
+             y="131.29309"
+             id="text13"
+             transform="scale(0.86573019,1.1550943)"><tspan
+               sodipodi:role="line"
+               id="tspan13"
+               x="231.70236"
+               y="131.29309"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.5459px;font-family:Ranger;-inkscape-font-specification:'Ranger Bold';fill:#ffffe3;fill-opacity:1;stroke:none;stroke-width:0.092077">GROUND BREAKING</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:expanded;font-size:3.49727px;font-family:'Shuttleblock Test';-inkscape-font-specification:'Shuttleblock Test Medium Italic Expanded';letter-spacing:-0.0244809px;word-spacing:-0.108197px;fill:#ffffe3;fill-opacity:1;stroke:none;stroke-width:0.0404802;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:0.0395093, 0.079019"
+             x="224.57961"
+             y="165.33673"
+             id="text16"
+             transform="scale(1.0640034,0.93984662)"><tspan
+               sodipodi:role="line"
+               id="tspan16"
+               x="224.57961"
+               y="165.33673"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:3.49727px;font-family:'Shuttleblock Test';-inkscape-font-specification:'Shuttleblock Test Bold Condensed';fill:#ffffe3;fill-opacity:1;stroke-width:0.0404802">[<tspan
+   style="letter-spacing:0.0981421px;fill:#ffffe3;fill-opacity:1;stroke-width:0.0404802"
+   id="tspan15">conditions apply</tspan>]</tspan></text>
+        </g>
+      </g>
+    </g>
   </g>
 </svg>
